@@ -2,158 +2,158 @@ import React from "react";
 
 const lessons = [
   {
-    "title": "LESSON 1",
-    "description": "New materials for Lesson 1.",
-    "links": [
+    title: "Lesson 1",
+    description: "Materials for Lesson 1.",
+    links: [
       {
-        "label": "Presentation",
-        "href": "/materials/lesson-1/presentation-1.pptx"
+        label: "PDF",
+        href: "https://docs.google.com/presentation/d/12VZ3GSu9dbIdoMGyoszdjKGXfE-ihvP4/edit?usp=drive_link&ouid=112870531186627517175&rtpof=true&sd=true"
       },
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-1/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/133exoDqJDMj3VUxUkKDR8QtNGl8BduQO/view?usp=drive_link"
       },
       {
-        "label": "Audio 2",
-        "href": "/materials/lesson-1/audio-2.ogg"
+        label: "Audio 2",
+        href: "https://drive.google.com/file/d/1iGkq_wX5sW272uOcvY8WcOVZzXnRzCnN/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 2",
-    "description": "New materials for Lesson 2.",
-    "links": [
+    title: "Lesson 2",
+    description: "Materials for Lesson 2.",
+    links: [
       {
-        "label": "PDF",
-        "href": "/materials/lesson-2/pdf-1.pdf"
+        label: "PDF",
+        href: "https://drive.google.com/file/d/1qp3WTPDn_wLF5doBeulnqm0YiRHFxS_L/view?usp=drive_link"
       },
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-2/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1gVXq7nzOKMH5rI2jtWfNDMM06lggZDal/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 3",
-    "description": "New materials for Lesson 3.",
-    "links": [
+    title: "Lesson 3",
+    description: "Materials for Lesson 3.",
+    links: [
       {
-        "label": "PDF",
-        "href": "/materials/lesson-3/pdf-1.pdf"
+        label: "PDF",
+        href: "https://drive.google.com/file/d/1Gr3r3tJU0sx76C_POHtYbC-qiXs-Y9zr/view?usp=drive_link"
       },
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-3/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1-pzkqRYAqmmBS8dqZojh1aQhc592Wo80/view?usp=drive_link"
       },
       {
-        "label": "Audio 2",
-        "href": "/materials/lesson-3/audio-2.ogg"
+        label: "Audio 2",
+        href: "https://drive.google.com/file/d/1GwIDuSn-wzPXcpzBRinBM9w_m-Zbf-RU/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 4",
-    "description": "New materials for Lesson 4.",
-    "links": [
+    title: "Lesson 4",
+    description: "Materials for Lesson 4.",
+    links: [
       {
-        "label": "PDF",
-        "href": "/materials/lesson-4/pdf-1.pdf"
+        label: "PDF",
+        href: "https://drive.google.com/file/d/1YZ76wKQ-vkWc8e7AptFyfNc1-pezrBlW/view?usp=drive_link"
       },
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-4/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1AZYoHbWVyMKmsp4xMRj6yIE3_RIquhhu/view?usp=drive_link"
       },
       {
-        "label": "Audio 2",
-        "href": "/materials/lesson-4/audio-2.ogg"
+        label: "Audio 2",
+        href: "https://drive.google.com/file/d/1XRCuyICyd1VfsFxNcSVTpHzCCYhlDsHA/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 5",
-    "description": "New materials for Lesson 5.",
-    "links": [
+    title: "Lesson 5",
+    description: "Materials for Lesson 5.",
+    links: [
       {
-        "label": "PDF",
-        "href": "/materials/lesson-5/pdf-1.pdf"
+        label: "PDF",
+        href: "https://drive.google.com/file/d/1ccd6jIVNARSoiH69czPCc785ev5Va03F/view?usp=drive_link"
       },
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-5/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1y0r5yIAXaxbuwiQsUg8GqM7Nq0fkdMM-/view?usp=drive_link"
       },
       {
-        "label": "Audio 2",
-        "href": "/materials/lesson-5/audio-2.ogg"
+        label: "Audio 2",
+        href: "https://drive.google.com/file/d/1a5FsqToqrJ3FCseclTRvgR88KzMeVe9r/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 6",
-    "description": "New materials for Lesson 6.",
-    "links": [
+    title: "Lesson 6",
+    description: "Materials for Lesson 6.",
+    links: [
       {
-        "label": "PDF",
-        "href": "/materials/lesson-6/pdf-1.pdf"
+        label: "PDF",
+        href: "https://drive.google.com/file/d/1hFWlEhp_UIHxv_maUl4fKnX31hdtn6v0/view?usp=drive_link"
       },
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-6/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1LzGPvaO7y1GjfX-mQ60XMpSqEw_8-NzV/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 7",
-    "description": "New materials for Lesson 7.",
-    "links": [
+    title: "Lesson 7",
+    description: "Materials for Lesson 7.",
+    links: [
       {
-        "label": "PDF",
-        "href": "/materials/lesson-7/pdf-1.pdf"
+        label: "PDF",
+        href: "https://drive.google.com/file/d/1NpaLX4ffZ-qR8Gw46lPr9FxoV3uukNG7/view?usp=drive_link"
       },
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-7/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1VlSIbQDRipBuwLNLJRVRaLCwSMeuQZtf/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 8",
-    "description": "New materials for Lesson 8.",
-    "links": [
+    title: "Lesson 8",
+    description: "Audio materials for Lesson 8.",
+    links: [
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-8/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1yiSNTq8t0s3ZlEAdF3t_Y7wTJYM2m9ye/view?usp=drive_link"
       },
       {
-        "label": "Audio 2",
-        "href": "/materials/lesson-8/audio-2.ogg"
+        label: "Audio 2",
+        href: "https://drive.google.com/file/d/1uZ2Ll1zyHPFDDyGijj9O4LVZiAyWSm8U/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 9",
-    "description": "New materials for Lesson 9.",
-    "links": [
+    title: "Lesson 9",
+    description: "Audio materials for Lesson 9.",
+    links: [
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-9/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1XvWKSeRx4Mf-bZh-m7ZFy0R6WyMbHiI0/view?usp=drive_link"
       },
       {
-        "label": "Audio 2",
-        "href": "/materials/lesson-9/audio-2.ogg"
+        label: "Audio 2",
+        href: "https://drive.google.com/file/d/1DC5C-X5PbRUSxv16n2p0VmwM6Y2tHMYQ/view?usp=drive_link"
       }
     ]
   },
   {
-    "title": "LESSON 10",
-    "description": "New materials for Lesson 10.",
-    "links": [
+    title: "Lesson 10",
+    description: "Materials for Lesson 10.",
+    links: [
       {
-        "label": "PDF",
-        "href": "/materials/lesson-10/pdf-1.pdf"
+        label: "PDF",
+        href: "https://drive.google.com/file/d/1hPHY9TKozc7vjdak3-gmNUxeHRjYyujk/view?usp=drive_link"
       },
       {
-        "label": "Audio 1",
-        "href": "/materials/lesson-10/audio-1.ogg"
+        label: "Audio 1",
+        href: "https://drive.google.com/file/d/1M7tVoiVyfDBbkCWkMyN4ZcHId69lenkB/view?usp=drive_link"
       }
     ]
   }
@@ -172,17 +172,19 @@ function LessonCard({ lesson }) {
 
       <p className="card-description">{lesson.description}</p>
 
-      {lesson.links.length > 0 ? (
-        <div className="links">
-          {lesson.links.map((link, index) => (
-            <a key={index} href={link.href} target="_blank" rel="noreferrer" className="link-btn">
-              {link.label}
-            </a>
-          ))}
-        </div>
-      ) : (
-        <p className="empty-text">Materials will be added soon.</p>
-      )}
+      <div className="links">
+        {lesson.links.map((link, index) => (
+          <a
+            key={index}
+            href={link.href}
+            target="_blank"
+            rel="noreferrer"
+            className="link-btn"
+          >
+            {link.label}
+          </a>
+        ))}
+      </div>
     </div>
   );
 }
@@ -194,23 +196,27 @@ export default function App() {
         <div className="container header-inner">
           <div>
             <h1>Bekzad’s Homework Website</h1>
-            <p>New English homework materials for LESSON 1–10.</p>
+            <p>My English homework portfolio with PDFs and audio files.</p>
           </div>
-          <a href="#lessons" className="main-btn">Open Lessons</a>
+          <a href="#lessons" className="main-btn">
+            Open Lessons
+          </a>
         </div>
       </header>
 
       <main>
         <section className="hero container">
           <div className="hero-text">
-            <span className="pill">Updated Homework Portfolio</span>
-            <h2>All new lessons and materials in one website</h2>
+            <span className="pill">Homework Portfolio</span>
+            <h2>All my lessons and homework materials in one website</h2>
             <p>
-              This website contains updated homework materials for LESSON 1–10.
-              It works on phone, computer, and inside the Telegram browser.
+              This website contains my English homework for Lessons 1–10.
+              Each lesson has its own materials, including PDF files and audio recordings.
             </p>
             <div className="hero-buttons">
-              <a href="#lessons" className="main-btn">View Homework</a>
+              <a href="#lessons" className="main-btn">
+                View Homework
+              </a>
             </div>
           </div>
 
@@ -220,12 +226,12 @@ export default function App() {
               <strong>10</strong>
             </div>
             <div className="info-card">
-              <p>Materials</p>
-              <strong>PDF / Presentation / Audio</strong>
+              <p>Files</p>
+              <strong>PDF / Audio</strong>
             </div>
             <div className="info-card full">
               <p>Goal</p>
-              <strong>To make all homework easy to open from one link.</strong>
+              <strong>To make my homework easy to open from one link.</strong>
             </div>
           </div>
         </section>
@@ -233,7 +239,7 @@ export default function App() {
         <section id="lessons" className="container lessons-section">
           <div className="section-title">
             <h2>Lessons</h2>
-            <p>Open each lesson and check the new homework materials.</p>
+            <p>Open each lesson and check the PDF files and audio materials.</p>
           </div>
 
           <div className="lessons-grid">
